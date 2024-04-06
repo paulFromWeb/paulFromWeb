@@ -4,6 +4,7 @@
 
  open to work<br>
  
-#### Skills: React, JavaScript, TypeScript, Redux, RTK, TailwindCSS, HTML/CSS<br>
+#### Skills: React, TypeScript, JavaScript, Redux, TailwindCSS, Jest, HTML/CSS, Figma<br>
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,jest,html,css,figma)](https://skillicons.dev)
  
 📫 Contact me in [telegram](https://t.me/pandaman2001) <br>
